@@ -9,6 +9,7 @@
     width: 20%;
     background-color: #ffd9df;
     text-align: center;
+    padding: auto;
 }
 #middle {
     position: relative;
